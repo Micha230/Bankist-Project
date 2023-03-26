@@ -1,0 +1,19 @@
+{
+  "name": "bankist-project",
+  "version": "1.0.0",
+  "description": "A project I did as part of my JavaScrip course on Udemy.\r Helped me a lot to understand some important concepts in JavaScript.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micha230/Bankist-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micha230/Bankist-Project/issues"
+  },
+  "homepage": "https://github.com/Micha230/Bankist-Project#readme"
+}
